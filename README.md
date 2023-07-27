@@ -2,7 +2,7 @@
 
 <p align="center">
  <a href="https://supreme-flier-b0d.notion.site/Developer-Currychoco-4a4a735d61034ca69f90aa9a8065b209" target="_blank">
-  <img src="https://supreme-flier-b0d.notion.site/image/https%…4d3b-82ee-f420fbc4a9c1&width=850&userId=&cache=v2">
+  <h2>Developer Currychoco(notion)</h2>
  </a>
 </p>
 
