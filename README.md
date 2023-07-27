@@ -1,9 +1,7 @@
  ## Hi there 👋
 
 <p align="center">
- <a href="https://supreme-flier-b0d.notion.site/Developer-Currychoco-4a4a735d61034ca69f90aa9a8065b209" target="_blank">
-  <h2>Developer Currychoco(notion)</h2>
- </a>
+  <h2><a href="https://supreme-flier-b0d.notion.site/Developer-Currychoco-4a4a735d61034ca69f90aa9a8065b209" target="_blank">Developer Currychoco(notion)</a></h2>
 </p>
 
  ---
